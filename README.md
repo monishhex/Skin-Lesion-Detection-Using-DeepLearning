@@ -23,6 +23,6 @@ The model is trained on a **publicly available medical image dataset** containin
 
 ## **Results**
 **Achieved high classification accuracy using CNN-based deep learning.**
-Improved detection efficiency compared to traditional methods.
+**Improved detection efficiency compared to traditional methods.**
 
 
