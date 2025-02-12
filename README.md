@@ -5,7 +5,7 @@ This project utilizes deep convolutional neural networks (CNNs) to enhance the a
 
 
 # Features
-✅ Deep learning-based skin lesion classification
+✅ Deep learning-based skin lesion classification**
 ✅ Advanced image processing for feature extraction
 ✅ Early and accurate detection for improved diagnosis
 ✅ Scalable and efficient model for real-world applications
