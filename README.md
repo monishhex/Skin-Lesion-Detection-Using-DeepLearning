@@ -19,6 +19,6 @@ The goal is to improve **dermatological diagnostics** and contribute to better t
 
 ## **Dataset**  
 The model is trained on a **publicly available medical image dataset** containing labeled skin lesion images.  
-*(You can specify the dataset, e.g., ISIC Dataset, HAM10000, etc.)*  
+*(HAM10000)* 
 
 
