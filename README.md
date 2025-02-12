@@ -21,4 +21,8 @@ The goal is to improve **dermatological diagnostics** and contribute to better t
 The model is trained on a **publicly available medical image dataset** containing labeled skin lesion images.  
 *(HAM10000)* 
 
+## **Results**
+**Achieved high classification accuracy using CNN-based deep learning.**
+Improved detection efficiency compared to traditional methods.
+
 
