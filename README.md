@@ -22,7 +22,8 @@ The model is trained on a **publicly available medical image dataset** containin
 *(HAM10000)* 
 
 ## **Results**
-**Achieved high classification accuracy using CNN-based deep learning.**
-*Improved detection efficiency compared to traditional methods.*
+✔️ **Achieved high classification accuracy** with CNN-based deep learning.
+✔️ **Enhanced detection efficiency compared to traditional methods.**
+✔️ Demonstrated improved performance in skin lesion classification compared to conventional image processing techniques.
 
 
