@@ -1,5 +1,5 @@
 # Skin-Lesion-Detection-Using-DeepLearning
-# Overview
+## Overview
 This project utilizes deep convolutional neural networks (CNNs) to enhance the accuracy and efficiency of skin lesion classification. By leveraging advanced image processing techniques, the model extracts key features from skin lesion images, enabling precise and early detection. The goal is to improve dermatological diagnostics and contribute to better treatment outcomes.
 
 
